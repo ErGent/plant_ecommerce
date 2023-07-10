@@ -4,7 +4,7 @@ const createNav = () => {
   nav.innerHTML = `
    
         <div class="nav">
-            <img src="img/logo2.png" class="brand-logo" alt="logo for little house of hoyas">
+            <img src="img/logo3.png" class="brand-logo" alt="logo for little house of hoyas">
              <h1 id="page-name">Little House of Hoyas</h1>
             <div class="nav-items">
                 <div class="search">
